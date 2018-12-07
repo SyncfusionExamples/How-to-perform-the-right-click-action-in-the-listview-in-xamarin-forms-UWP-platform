@@ -1,7 +1,7 @@
 # How to perform the right-click action in the listview in Xamarin.Forms UWP platform?
 This example demonstrates how to perform the right-click action in UWP platform by customizing the ListView and ListViewItem.
 
-See [How to perform the right-click action in the listview in Xamarin.Forms UWP platform]() for more details.
+See [How to perform the right-click action in the listview in Xamarin.Forms UWP platform](https://www.syncfusion.com/kb/9983/how-to-perform-the-right-click-action-in-the-listview-in-xamarin-forms-uwp-platform) for more details.
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
