@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ListViewContextMenu.SfPopUpView">
+  <ContentView.Content>
+    <StackLayout BackgroundColor="Teal" >
+      <Button x:Name="sortbtn" Text="Sort"
+                FontSize="14" Clicked="Sortbtn_Clicked"
+                TextColor="White" WidthRequest="100"
+                BackgroundColor="Teal" HeightRequest="35" />
+      <Button x:Name="deletebtn" Text="Delete"
+                FontSize="14" Clicked="Deletebtn_Clicked"
+                TextColor="White" BackgroundColor="Teal"
+                WidthRequest="100" HeightRequest="35"/>
+    </StackLayout>
+  </ContentView.Content>
+</ContentView>
